@@ -1,0 +1,10 @@
+const accountid =93244
+let accountname ="abdul"
+var accountemail = "abdul@gmail.com"
+acccountcity ="mumbai"
+accounttype =
+
+accountname ="siddiqui"
+accountemail ="siddiqui@gmail.com"
+
+console.table([accountid,accountname,accountemail,accounttype])
